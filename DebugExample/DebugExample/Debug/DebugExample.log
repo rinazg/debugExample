@@ -1,0 +1,3 @@
+﻿  DebugExample.cpp
+C:\Users\paral\source\repos\DebugExample\DebugExample\DebugExample.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DebugExample.vcxproj -> C:\Users\paral\source\repos\DebugExample\Debug\DebugExample.exe
